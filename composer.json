@@ -1,5 +1,5 @@
 {
-    "name": "jimdo/prometheus_client_php",
+    "name": "aboutcoders/prometheus_client_php",
     "authors": [
         {
             "name": "Joscha",
@@ -8,6 +8,10 @@
         {
             "name": "Jan Brauer",
             "email": "jan.brauer@jimdo.com"
+        },
+        {
+            "name": "Nino Dafonte",
+            "email": "nino.dafonte@gmail.com"
         }
     ],
     "require": {
